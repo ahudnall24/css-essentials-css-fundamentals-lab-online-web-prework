@@ -28,5 +28,16 @@ p #featured-property{
   
 }
 
+footer #details{
+  display: block;
+}
+
+div{
+  float: left;
+  background-color: blue
+  
+
+}
+
   
   
